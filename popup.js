@@ -51,7 +51,6 @@ document.getElementById('check-button').addEventListener('click', () => {
   }
 });
 
-
 document.getElementById('generate-password-button').addEventListener('click', () => {
   const length = parseInt(document.getElementById('password-length').value, 10);
   const includeUppercase = document.getElementById('include-uppercase').checked;
@@ -62,8 +61,8 @@ document.getElementById('generate-password-button').addEventListener('click', ()
   const resultDiv = document.getElementById('password-result');
   resultDiv.innerHTML = '';
 
-  if (length < 4 || length > 64) {
-    resultDiv.innerHTML = '<p>Password length must be between 4 and 64 characters.</p>';
+  if (length < 8 || length > 64) {
+    resultDiv.innerHTML = '<p>Password length must be between 8 and 64 characters.</p>';
     return;
   }
 
