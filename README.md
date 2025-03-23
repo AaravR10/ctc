@@ -11,18 +11,23 @@ Access for downloading this extension from Github is only restricted to select b
 
 # Instructions for configuration (extension):
 
-On your browser that supports the usage of extensions,
+DOWNLOAD: Click "Code" above the repository
+Then Click "Download ZIP" 
 
-Navigate to the "Manage Extensions" setting of your browser
+Then,
+
+On your browser that supports the usage of extensions, <-
+
+Navigate to the "Manage Extensions" setting of your browser <- 
+
+On Chrome specifically: Select 3 dots in the upper right corner > Extensions > Manage Extensions >
+[upper right corner] Enable developer mode > Load unpacked > Click the whole folder containing extension materials
+
+Other browsers should have similar directions to Chrome's directions ^
 
 # Instructions for configuration (Website):
 
-Simply click the link: 
-
-On Chrome: Select 3 dots in the upper right corner > Extensions > Manage Extensions >
-[upper right corner] Enable developer mode > Load unpacked > Click the whole folder containing extension materials
-
-Other browsers should have similar directions to Chrome's ^
+Simply click the link:
 
 # Usage
 
