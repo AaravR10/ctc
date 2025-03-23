@@ -27,7 +27,7 @@ Other browsers should have similar directions to Chrome's directions ^
 
 # Instructions for configuration (Website):
 
-Simply click the link:
+Simply click the link: [https://calculatorsnet.github.io/2025-SQL-Hackathon/](url)
 
 # Usage:
 
