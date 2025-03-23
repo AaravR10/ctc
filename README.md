@@ -65,9 +65,13 @@ We’ve spent countless hours developing this project; so we didn’t use any li
 # Bibliography (Works Cited)
 
 “W3schools.Com.” W3Schools Online Web Tutorials, www.w3schools.com/sql/sql_injection.asp. Accessed 22 Mar. 2025.
+
 Artificial Intelligence (Used for debugging and ideas)
-  Tongyi Qianwen (Qwen) - https://chat.qwen.ai/
-	Github Copilot - https://github.com/features/copilot
-	Google Gemini - https://gemini.google.com/app
+
+- Tongyi Qianwen (Qwen) - https://chat.qwen.ai/
+
+- Github Copilot - https://github.com/features/copilot
+
+- Google Gemini - https://gemini.google.com/app
 
 
