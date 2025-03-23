@@ -1,0 +1,16 @@
+php:
+$query = "SELECT * FROM users WHERE username = '$username'";
+mysql_query($query);
+
+python:
+query = "SELECT * FROM users WHERE username = '" + username + "'"
+cursor.execute(query)
+
+javascript:
+const query = "SELECT * FROM users WHERE username = '" + username + "'";
+connection.query(query, (err, results) => {});
+
+java:
+String query = "SELECT * FROM users WHERE username = '" + username + "'";
+Statement stmt = connection.createStatement();
+stmt.executeQuery(query);
